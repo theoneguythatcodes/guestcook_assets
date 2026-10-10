@@ -1,0 +1,1 @@
+# guestcook_assets
